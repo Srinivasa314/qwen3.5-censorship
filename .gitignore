@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+results/
+results_stale_*/
+_stale_removed_experiments/
+figures/
+*.npz
+data/steering_grid_public.json
+
+/*.md
+!/README.md
+
+*_env.sh
+run_*.sh

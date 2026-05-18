@@ -1,0 +1,5 @@
+torch>=2.7.0
+transformers>=4.51.0
+accelerate
+numpy
+anthropic
