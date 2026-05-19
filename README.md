@@ -1,4 +1,4 @@
-# How LLMs do political censorship internally
+# Mechanistic Interpretability Experiments on Qwen 3.5
 
 ## Layout
 
